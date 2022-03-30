@@ -45,3 +45,6 @@ The neural network consists of:
 - Dense layer - units: 128, activation: ReLU
 - Dense layer - units: 26, activation: softmax
 
+### Report
+This repository contains a `Report.pdf` file, which contains a report on the project. It is written entirely in Polish. 
+
