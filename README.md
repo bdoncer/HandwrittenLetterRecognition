@@ -28,7 +28,7 @@ Repository contains a Tkinter application that can be used to test the neural ne
 
 The GIF below is a demo of the application working:
 
-<img src="/mnt/C4E6F221E6F21380/Users/behen/Documents/Studia/Semestr_IV/Biologiczne/Kod/emnist/huehuehuehuehue/imgs/demo.gif" alt="demo" style="zoom:50%;" />
+<img src="imgs/demo.gif" alt="demo" style="width:30%" />
 
 ### Structure of the Neural Network
 
