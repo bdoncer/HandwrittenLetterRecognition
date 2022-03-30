@@ -4,7 +4,7 @@
 
 This repository contains code for a project, which uses a convolutional neural network to predict a letter from a handwritten image. The code consists of two main files:
 
-1. `paint.py` - contains a Tkinter application, which allows the user to draw a letter, and make the neural network predict it.
+1. `paint.py` - contains a Tkinter application, which allows the user to draw a letter and make the neural network predict it.
 2. `model_train.ipynb` - Jupyter notebook containing code used for training of the neural network
 
 ### Authors
